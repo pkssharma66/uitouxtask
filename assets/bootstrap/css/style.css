@@ -1,0 +1,47 @@
+.align-top {
+    vertical-align: top !important;
+    padding: 0 0 0 1rem;
+}
+.textdec {
+    color: #9d9d9d;
+}
+.textdecright
+{
+	color: #9d9d9d;
+	padding: 0 0 0 223px;
+}
+.size
+{
+	max-width: 50% !important;
+}
+.searchtext {
+    border: none;
+    background-color: lightgray;
+    height: 2rem;
+    width: 18rem;
+    
+}
+.searchbox {
+    border: none;
+    background-color: lightgray;
+    height: 2rem;
+    width: 20rem;
+    padding: 0  106px  0 0;
+}
+.usertext
+{
+	font-size: 8px;
+}
+.myacount
+{
+	    float: right;
+    font-size: 13px;
+    margin: -14px -13px 0px 0px;
+}
+.txt{
+	color: #fff;
+}
+.txp
+{
+	color: darkgray;
+}
